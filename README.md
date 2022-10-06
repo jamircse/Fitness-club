@@ -12,6 +12,6 @@ You can visite this site at https://jamircse.github.io/Fitness-club/
 
 📫 How to reach me ...
     
- ✉️ jamir.cse@gmail.com
+ ✉️  jamir.cse@gmail.com
    
 
